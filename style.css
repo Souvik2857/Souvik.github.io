@@ -25,7 +25,7 @@ body{
 
 .main .background {
     height: 80vh;
-    width: 1351px;
+    width: 100%;
     opacity: 0.7;
     background-color: black;
     position: absolute;
